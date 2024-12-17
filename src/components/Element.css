@@ -1,0 +1,11 @@
+.element__container{
+    display: flex;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+}
+.element__wrapper{
+    display: flex;
+    flex-direction: row;
+    margin: 2rem 2rem 2rem 2rem;
+    padding: 20px;
+}
